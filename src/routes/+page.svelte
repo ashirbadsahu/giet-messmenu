@@ -46,8 +46,9 @@
     <p>Tea: 6:00 PM to 7:00 PM</p> <br>
     <p class="text-center justify-center text-md">Sunday and holiday</p>
     <p class="text-center justify-center">Breakfast: 8.00 AM to 9:30 AM</p>
-    <p class="text-center justify-center">and Lunch: 12:30PM to 2:30 PM</p>
-    
-    
+    <p class="text-center justify-center">and Lunch: 12:30PM to 2:30 PM</p> 
+</div>
 
+<div class="bottom-0 left-0 w-full bg-transparent text-white text-center p-2">
+Made with by ❤️ Ashirbad
 </div>
