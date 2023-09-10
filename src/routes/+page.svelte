@@ -8,8 +8,8 @@
     }
 </script>
 <div class="flex items-center justify-center my-4 text-white flex-col">
-    <h1>GIET Menu for Central Mess</h1>
-    <p class="py-1">Month: September</p>
+    <h1 class="text-xl">GIET Menu for Central Mess</h1>
+    <p class="py-2 text-lg">Month: September</p>
 </div>
 <div class="flex items-center justify-center my-4">
     <div class="flex items-center justify-center my-4 ">
@@ -43,12 +43,13 @@
     <p class="text-md">Timings</p>
     <p>Breakfast: 6:30 to 8:30 AM</p>
     <p>Lunch: 12:15 PM to 2:30 PM</p>
-    <p>Tea: 6:00 PM to 7:00 PM</p> <br>
+    <p>Tea: 6:00 PM to 7:00 PM</p>
+    <p>Dinner: 8:00 PM to 9:45 PM</p><br>
     <p class="text-center justify-center text-md">Sunday and holiday</p>
     <p class="text-center justify-center">Breakfast: 8.00 AM to 9:30 AM</p>
     <p class="text-center justify-center">and Lunch: 12:30PM to 2:30 PM</p> 
 </div>
 
 <div class="bottom-0 left-0 w-full bg-transparent text-white text-center p-2">
-Made with by ❤️ Ashirbad
+ <a href="https://github.com/ashirbadsahu/" target="_blank">Made with ❤️ by Ashirbad</a> 
 </div>
