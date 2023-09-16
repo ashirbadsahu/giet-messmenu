@@ -47,6 +47,6 @@ export const menus = [
         breakfast: "Uthapam/Chakuli,Alu-curry, Chutney",
         lunch: "Rice, Roti, Dal, Rasam, Egg chilli/ Soyabean chilli, Dahi boondi",
         snacks: "Tea and Biscuits",
-        dinner: "Roti, Piece Pulao, Dal, Vegetable curry, Aladi/Lvy Gourd Fry"
+        dinner: "Roti, Peas Pulao, Dal, Vegetable curry, Aladi/Lvy Gourd Fry"
     },
 ]
