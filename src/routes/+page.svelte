@@ -9,7 +9,7 @@
 </script>
 <div class="flex items-center justify-center my-4 text-white flex-col">
     <h1 class="text-xl lg:text-2xl">GIET Menu for Central Mess</h1>
-    <p class="py-2 text-lg lg:text:xl">Month: September</p>
+    <p class="py-2 text-lg lg:text:xl">Month: October</p>
 </div>
 <div class="flex items-center justify-center my-4">
     <div class="flex items-center justify-center my-4 ">
